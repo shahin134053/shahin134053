@@ -1,145 +1,192 @@
-<div align="center">
+# 🕌 Islamic App
 
-# 🕌 Al-Quran Bangla AI (আল-কুরআন বাংলা)
+A modern, privacy-focused Islamic mobile application designed to help Muslims easily access essential Islamic resources, daily worship tools, learning content, and prayer utilities — all in one place.
 
-**An AI-powered Quran platform built for the Bangla-speaking community.**
-
-Read, listen, search, and understand the Quran with Gemini-powered Tafsir, semantic search, and a live voice assistant.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Version](https://img.shields.io/badge/version-1.2.0-emerald)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-Installable-5A0FC8?logo=pwa&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white)
-
-[**Live Demo**](https://YOUR-LIVE-LINK) · [**Report a Bug**](https://github.com/shahinprpl-sketch/alQural/issues) · [**Request a Feature**](https://github.com/shahinprpl-sketch/alQural/issues)
-
-</div>
+Built with a focus on simplicity, accessibility, performance, and a clean modern user experience.
 
 ---
 
-## 📸 Screenshots
+## ✨ Features
 
-| Home | Tafsir | Voice Assistant |
-|:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Tafsir](screenshots/tafsir.png) | ![Voice](screenshots/voice.png) |
+### 🕋 Prayer Times
+- Accurate daily prayer times
+- Fajr, Dhuhr, Asr, Maghrib & Isha
+- Sunrise time
+- Next prayer countdown
+- Location-based prayer times
+- Support for cities worldwide
 
-## 📖 About
+### 📖 Quran
+- Complete Quran
+- Arabic Quran text
+- Translation support
+- Search
+- Bookmarks
+- Last-read position
+- Audio recitation support
+- Dark mode
 
-Most Quran apps offer text and audio. **Al-Quran Bangla AI** goes further by helping Bangla speakers *understand* what they read. It combines the complete Quran with AI features so users can ask questions, explore topics, and get contextual explanations in their own language.
+### 📜 Hadith
+- Organized Hadith collection
+- Categories
+- Search functionality
+- Hadith bookmarks
+- Source and reference information
+- Focus on authentic and properly referenced content
 
-## 🌟 Features
+### 📿 Digital Tasbih
+- Digital Dhikr counter
+- Custom Dhikr
+- Daily targets
+- Reset functionality
+- Progress tracking
+- Vibration feedback
 
-| Feature | Description |
-|---|---|
-| 📖 **Complete Quran** | All 114 Surahs with Arabic script and Bangla/English translations |
-| 🧠 **AI Tafsir** | Contextual verse explanations generated with Google Gemini |
-| 🔍 **Semantic Search** | Search by topic or meaning (e.g. "Patience", "Inheritance"), not just keywords |
-| 🎙️ **Live Voice Assistant** | Ask spiritual or historical questions and get real-time audio answers |
-| 🎧 **Master Reciters** | Stream recitations from 12 renowned Qaris, including Alafasy and Minshawi |
-| 🕋 **Daily Utilities** | Location-based prayer times and a Ramadan countdown |
-| 🎨 **Reading Experience** | Dark mode, smooth animations, and adjustable typography |
-| 📱 **Installable PWA** | Works like a native app on Android and iOS |
+### 🤲 Duas
+A collection of useful daily Islamic supplications, including:
 
-## 🛠️ Tech Stack
+- Morning & evening duas
+- Prayer-related duas
+- Sleeping duas
+- Travel duas
+- Protection duas
+- Difficulties & hardship duas
+- Arabic text
+- Bangla pronunciation
+- Meaning and references
 
-- **Frontend:** React, TypeScript, Vite
-- **AI:** Google Gemini API (Tafsir, semantic search, voice assistant)
-- **App type:** Progressive Web App (service worker + web manifest)
-- **Deployment:** Vercel / Netlify
+### 🧠 Islamic Learning
+Interactive learning features designed for beginners and families:
+
+- Islamic quizzes
+- Salah learning
+- Wudu learning
+- Dua learning
+- Islamic knowledge
+- Kids-friendly learning content
+
+### 🧭 Qibla
+- Qibla direction
+- Compass-based interface
+- Location support
+- Simple and easy-to-use design
+
+### 📅 Islamic Calendar
+- Hijri date
+- Gregorian date
+- Important Islamic dates
+- Ramadan information
+- Eid information
+
+### ❤️ Favorites & Bookmarks
+Save important content for quick access:
+
+- Quran verses
+- Hadith
+- Duas
+- Learning materials
+
+---
+
+## 🎨 Design
+
+The application follows a clean and modern Islamic-inspired design philosophy.
+
+- Minimal interface
+- Modern UI
+- Light & dark mode
+- Responsive layouts
+- Smooth animations
+- Accessible typography
+- Mobile-first experience
+- Simple navigation
+- Performance-focused design
+
+---
+
+## 💰 Monetization
+
+The application is designed with a responsible monetization approach.
+
+### Google AdMob
+Ads may be used to support the ongoing development and maintenance of the application.
+
+The goal is to keep advertisements:
+
+- Non-intrusive
+- Relevant
+- Respectful of Islamic content
+- Away from sensitive worship experiences whenever possible
+
+### 🤲 Optional Support
+
+Users may optionally support the development of the application.
+
+Donations can help cover:
+
+- Server costs
+- Development
+- Maintenance
+- Updates
+- Islamic educational content
+
+Donations are completely optional and the application does not pressure users to contribute.
+
+---
+
+## 🔐 Privacy
+
+Privacy is an important part of this project.
+
+The application follows a data-minimization approach and aims to collect only information that is necessary to provide its features.
+
+Depending on enabled features, the application may use:
+
+- Location for prayer times and Qibla
+- Notifications for prayer reminders
+- Analytics for improving the application
+- Advertising services such as Google AdMob
+
+For complete information, please review the application's Privacy Policy.
+
+---
+
+## 🛠️ Technology
+
+This project is developed using modern AI-assisted development and software engineering practices.
+
+### Core Technologies
+
+- Modern mobile application framework
+- AI-assisted development
+- REST/API integrations
+- Local data storage
+- Location services
+- Notification services
+- Google AdMob
+- Modular application architecture
+
+> Technology details may evolve as the project continues to develop.
+
+---
+
+## 🏗️ Project Architecture
+
+The project is designed around a modular architecture to make the application:
+
+- Easy to maintain
+- Easy to extend
+- Scalable
+- Performance-focused
+- AI-development friendly
+
+Features are organized into independent modules where possible, allowing future functionality to be added without significantly affecting existing features.
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js 18 or later
-- A [Google Gemini API key](https://aistudio.google.com/apikey)
-
-### Installation
+### 1. Clone the repository
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/shahinprpl-sketch/alQural.git
-cd alQural
-
-# 2. Install dependencies
-npm install
-
-# 3. Add your environment variables
-cp .env.example .env
-# then open .env and set API_KEY=your_gemini_api_key
-
-# 4. Start the development server
-npm run dev
-```
-
-### Build for production
-
-```bash
-npm run build
-npm run preview
-```
-
-## 📱 Install as a Mobile App (PWA)
-
-- **Android:** open in Chrome → menu → **Add to Home Screen**
-- **iOS:** open in Safari → **Share** → **Add to Home Screen**
-
-## 📂 Project Structure
-
-```
-alQural/
-├── components/      # UI components
-├── services/        # API and AI service logic
-├── App.tsx          # Root component
-├── constants.ts     # App constants
-├── translations.ts  # Bangla / English strings
-├── types.ts         # Shared TypeScript types
-├── sw.js            # Service worker (offline support)
-└── manifest.json    # PWA manifest
-```
-
-## 🔐 Security Note
-
-Never commit your API key. Keep it in `.env` (already ignored by `.gitignore`). For production, route Gemini requests through a serverless function so the key is never exposed in the browser.
-
-## 🗺️ Roadmap
-
-- [ ] Serverless proxy for secure API calls
-- [ ] Bookmarks and reading history
-- [ ] More translations and languages
-- [ ] Offline Surah downloads
-- [ ] Verse sharing as images
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the project
-2. Create your feature branch: `git checkout -b feat/your-feature`
-3. Commit your changes: `git commit -m "feat: add your feature"`
-4. Push to the branch: `git push origin feat/your-feature`
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
-## 👨‍💻 Author
-
-**Md Shahin** · AI Apps Developer · Founder of Pixel Retouch Pro
-
-[![GitHub](https://img.shields.io/badge/GitHub-shahinprpl--sketch-181717?logo=github)](https://github.com/shahinprpl-sketch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-
----
-
-<div align="center">
-
-If you find this project useful, please give it a ⭐
-
-*Built with ❤️ for the Bangla-speaking Muslim community.*
-
-</div>
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
