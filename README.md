@@ -1,3 +1,26 @@
+<div align="center">
+
+# 📖 আল-শাহীন কুরআন (Al-Shahin Quran)
+### সর্বাধুনিক, ডিজিটাল ও সমৃদ্ধ ইসলামিক মোবাইল অ্যাপ্লিকেশন
+
+[![Latest Release](https://img.shields.io/badge/Release-v2.0.1%20(Latest)-059669?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest)
+[![Direct APK Download](https://img.shields.io/badge/Download-APK%20(Android)-10b981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.apk)
+[![Play Store Bundle](https://img.shields.io/badge/Download-AAB%20(Play%20Store)-2563eb?style=for-the-badge&logo=googleplay&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.aab)
+[![iOS WebApp Bundle](https://img.shields.io/badge/Download-iOS%20Web%20Package-9333ea?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-iOS-WebApp.zip)
+
+### 📌 লেটেস্ট রিলিজ সরাসরি ডাউনলোড করুন (Always Pinned Latest Version):
+| ফাইল / সংস্করণ | বিবরণ ও প্ল্যাটফর্ম | সরাসরি এক-ক্লিক ডাউনলোড |
+| :--- | :--- | :--- |
+| 📲 **Android APK** | সরাসরি ফোনে ইনস্টলযোগ্য সাইনড APK (~৪.১১ MB) | [⬇️ **Download Latest APK**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.apk) |
+| 📦 **Play Store AAB** | প্লে স্টোরে আপলোডের জন্য প্রস্তুত সাইনড AAB ফাইল (~৩.৯৬ MB) | [⬇️ **Download Latest AAB**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.aab) |
+| 🍎 **iPhone / Web PWA** | আইফোনের জন্য অফলাইন PWA ও ওয়েব প্যাকেজ (~০.৯৬ MB) | [⬇️ **Download iOS WebApp Bundle**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-iOS-WebApp.zip) |
+
+🔗 **[📌 অফিসিয়াল গিটহাব রিলিজ পাতা দেখুন](https://github.com/shahin134053/quran-app/releases/latest)** &nbsp;|&nbsp; 📂 **[সোর্স কোড রিপোজিটরি: quran-app](https://github.com/shahin134053/quran-app)**
+
+---
+
+</div>
+
 # 🕌 Islamic App
 
 A modern, privacy-focused Islamic mobile application designed to help Muslims easily access essential Islamic resources, daily worship tools, learning content, and prayer utilities — all in one place.
