@@ -1,38 +1,38 @@
 <div align="center">
 
 # 📖 আল-শাহীন কুরআন (Al-Shahin Quran)
-### সর্বাধুনিক, ডিজিটাল ও বৈশিষ্ট্যমণ্ডিত ইসলামিক মোবাইল অ্যাপ্লিকেশন (ভার্সন ৩.০.০)
+### সর্বাধুনিক, ডিজিটাল ও বৈশিষ্ট্যমণ্ডিত ইসলামিক মোবাইল অ্যাপ্লিকেশন (ভার্সন ৩.১.০)
 
-[![Release](https://img.shields.io/badge/Pinned%20Release-v3.0.0%20(Latest)-059669?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest)
-[![Android APK](https://img.shields.io/badge/Download-Android%20APK%20(v3.0.0)-10b981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.apk)
+[![Release](https://img.shields.io/badge/Pinned%20Release-v3.1.0%20(Latest)-059669?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest)
+[![Android APK](https://img.shields.io/badge/Download-Android%20APK%20(v3.1.0)-10b981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.apk)
 [![Play Store AAB](https://img.shields.io/badge/Download-Play%20Store%20AAB-2563eb?style=for-the-badge&logo=googleplay&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.aab)
 [![iPhone iOS Package](https://img.shields.io/badge/Download-iPhone%20iOS%20Bundle-9333ea?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-iOS-WebApp.zip)
 [![Live Web PWA](https://img.shields.io/badge/Live%20PWA-Open%20Web%20App-06b6d4?style=for-the-badge&logo=pwa&logoColor=white)](https://ais-pre-imxb6mqmlxvczynoghedin-115405497061.asia-east1.run.app)
 
-### 📌 লেটেস্ট রিলিজ সরাসরি ডাউনলোড করুন (Pinned Latest Release v3.0.0):
+### 📌 লেটেস্ট রিলিজ সরাসরি ডাউনলোড করুন (Pinned Latest Release v3.1.0):
 
 | ফাইল / সংস্করণ | বিবরণ ও প্ল্যাটফর্ম | সরাসরি এক-ক্লিক ডাউনলোড |
 | :--- | :--- | :--- |
-| 📲 **Android APK** | সরাসরি ফোনে ইনস্টলযোগ্য ফুল ভার্সন APK (~৪.২ MB)। Uptodown / APKPure / সরাসরি ফোনে ইনস্টলের জন্য প্রস্তুত। | [⬇️ **Download Android APK (v3.0.0)**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.apk) |
-| 📦 **Play Store AAB** | গুগল প্লে স্টোর ও অ্যাপ স্টোরে আপলোডের জন্য সাইনড অফিসিয়াল প্রোডাকশন AAB বান্ডেল (~৪.০ MB) | [⬇️ **Download Play Store AAB (v3.0.0)**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.aab) |
+| 📲 **Android APK** | সরাসরি ফোনে ইনস্টলযোগ্য ফুল ভার্সন APK (~৪.২ MB)। Uptodown / APKPure / সরাসরি ফোনে ইনস্টলের জন্য প্রস্তুত। | [⬇️ **Download Android APK (v3.1.0)**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.apk) |
+| 📦 **Play Store AAB** | গুগল প্লে স্টোর ও অ্যাপ স্টোরে আপলোডের জন্য সাইনড অফিসিয়াল প্রোডাকশন AAB বান্ডেল (~৪.০ MB) | [⬇️ **Download Play Store AAB (v3.1.0)**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-release.aab) |
 | 🍎 **iPhone / iOS WebApp** | আইফোন ও অ্যাপল ব্যবহারকারীদের জন্য সম্পূর্ণ অফলাইন PWA ও iOS প্যাকেজ (~১.০ MB) | [⬇️ **Download iPhone iOS Package**](https://github.com/shahin134053/quran-app/releases/latest/download/Al-Shahin-Quran-iOS-WebApp.zip) |
 | 🌐 **লাইভ ইনস্ট্যান্ট ওয়েব অ্যাপ** | কোনোকিছু ইনস্টল ছাড়াই সরাসরি ব্রাউজারে ব্যবহার করুন | [🚀 **Launch Live App**](https://ais-pre-imxb6mqmlxvczynoghedin-115405497061.asia-east1.run.app) |
 
-🔗 **[📌 অফিসিয়াল আল-শাহীন কুরআন রিলিজ পাতা দেখুন](https://github.com/shahin134053/quran-app/releases/tag/v3.0.0)** &nbsp;|&nbsp; 📂 **[সোর্স কোড রিপোজিটরি: quran-app](https://github.com/shahin134053/quran-app)**
+🔗 **[📌 অফিসিয়াল আল-শাহীন কুরআন রিলিজ পাতা দেখুন](https://github.com/shahin134053/quran-app/releases/latest)** &nbsp;|&nbsp; 📂 **[সোর্স কোড রিপোজিটরি: quran-app](https://github.com/shahin134053/quran-app)**
 
 ---
 
 </div>
 
-## 🌟 আল-শাহীন কুরআন v3.0.0 এর অনন্য ফিচারসমূহ (Unique Features)
+## 🌟 আল-শাহীন কুরআন v3.1.0 এর অনন্য ফিচারসমূহ (Unique Features)
 
-* 🧠 **স্মার্ট হিফজ ও আত্ম-পরীক্ষা মোড (Hifz Companion):** আয়াত টেক্সট হাইড করে মুখস্থ পরীক্ষা, অডিও রিপিট কাউন্টার ও সূরাভিত্তিক হিফজ ট্র্যাকার।
+* 🧭 **ইন্টারেক্টিভ ক্বিবলা ও পবিত্র কা'বা কম্পাস (Interactive Qibla & Kaaba Compass):** উত্তর (North), দক্ষিণ (South), পূর্ব (East), পশ্চিম (West) ও ইন্টারকার্ডিনাল দিক নির্দেশক। জিপিএস কোঅর্ডিনেট থেকে পবিত্র কাবার সুনির্দিষ্ট দিক (Bearing) ও দূরত্বের হিসাব, লাইভ সেন্সর রোটেশন, সুনির্দিষ্ট ক্বিবলামুখী হলে হ্যাপটিক ভাইব্রেশন ও সারিবদ্ধতা নির্দেশক।
 * 🔍 **বিষয়ভিত্তিক আল-কুরআন অনুসন্ধান (Semantic Topic Search):** ধৈর্য, মা-বাবা, সালাত, জান্নাত, ক্ষমা ইত্যাদি বিষয়ভিত্তিক আয়াত ও অনুবাদ অনুসন্ধান।
 * 📖 **সম্পূর্ণ ১১৪ সূরা ও বহু-ক্বারী অডিও:** মিশারি রাশিদ আলাফাসি, সুদাইস ও অন্যান্য বিশ্বখ্যাত ক্বারীদের কণ্ঠে সুস্পষ্ট তিলাওয়াত।
 * 🤲 **ওয়াক্তভিত্তিক দু'আ ও ধারাবাহিক অডিও পাঠ:** আরবি তিলাওয়াতের সাথে সাথে বাংলায় অর্থ পাঠ।
 * 🕌 **হাইপার-লোকাল মসজিদ ফাইন্ডার:** জিপিএস ভিত্তিক ৩০০ কিমি পরিধির মধ্যে নিকটস্থ মসজিদের সঠিক দূরত্ব ও রুট।
 * 🌙 **রমাদান হাব:** লাইভ সেহরি-ইফতার কাউন্টডাউন ও রোযার সূচি।
-* 🕋 **ক্বিবলা কম্পাস ও স্বয়ংক্রিয় সালাত ওয়াক্ত:** ভৌগোলিক অবস্থান অনুযায়ী নির্ভুল আজানের সময়সূচি।
+* 🕋 **স্বয়ংক্রিয় সালাত ওয়াক্ত:** ভৌগোলিক অবস্থান অনুযায়ী নির্ভুল আজানের সময়সূচি।
 * 🧮 **ডিজিটাল তাসবিহ ও যাকাত ক্যালকুলেটর:** আধুনিক ইসলামিক হিসাব ব্যবস্থা।
 
 ---
