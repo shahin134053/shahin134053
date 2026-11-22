@@ -1,5 +1,34 @@
 <div align="center">
 
+<a href="https://shahin134053.github.io/Reeldaiii/">
+  <img src="https://raw.githubusercontent.com/shahin134053/Reeldaiii/main/public/assets/aistudio/Logo-Primary-DarkBG_1dee2b7e.png" alt="Reeldaiii — 2D Storytelling Animation Studio" width="300" />
+</a>
+
+# 📌 Pinned Open-Source App: Reeldaiii — 2D Storytelling Animation Studio
+
+**Turn Voiceover Audio, SRT Subtitles & Scripts into Synchronized 16:9 YouTube & 9:16 Reels Animated Videos (Up to 4K UHD) — 100% Free & Open Source in Your Browser!**  
+**ভয়েসওভার অডিও, SRT সাবটাইটেল এবং গল্পের স্ক্রিপ্ট থেকে সরাসরি ব্রাউজারেই তৈরি করুন ১৬:৯ ইউটিউব ও ৯:১৬ রিলস ২ডি অ্যানিমেশন ভিডিও — সম্পূর্ণ ফ্রি ও ওপেন সোর্স!**
+
+<p align="center">
+  <a href="https://shahin134053.github.io/Reeldaiii/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Launch_Live_Website-Use_Reeldaiii_Online-FFAC1C?style=for-the-badge&labelColor=0A0C10" height="40" alt="Launch Live Website" />
+  </a>
+  <a href="https://github.com/shahin134053/Reeldaiii" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-Source_Code_%26_Docs-181717?style=for-the-badge&logo=github" height="40" alt="Open Source Repository" />
+  </a>
+  <a href="https://shahin134053.github.io/Reeldaiii/?page=studio" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AC_Open_Studio-Create_2D_Animation-10B981?style=for-the-badge" height="40" alt="Open Studio" />
+  </a>
+</p>
+
+`#Reeldaiii` `#2DAnimation` `#StorytellingStudio` `#AIAnimation` `#OpenSource` `#ReelsMaker` `#YouTubeShorts` `#বাংলা_অ্যানিমেশন` `#ওপেন_সোর্স`
+
+</div>
+
+---
+
+<div align="center">
+
 # 📖 আল-শাহীন কুরআন (Al-Shahin Quran)
 ### সর্বাধুনিক, ডিজিটাল ও বৈশিষ্ট্যমণ্ডিত ইসলামিক মোবাইল অ্যাপ্লিকেশন (ভার্সন ৩.১.১)
 #### নতুন প্যাকেজ আইডি: `com.alshahin.holyquran`
